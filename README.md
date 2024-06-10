@@ -10,3 +10,4 @@ ya quedo doc :D
 
 # Tercer modificacion
 cambie el nombre "imac05" por "thanos"
+segun ya quedo
